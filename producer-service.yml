@@ -1,4 +1,4 @@
 server:
   port: ${PORT:8890}
   
-  message: El servidor de configuracion esta operativo!
+  message: El servidor de Development esta operativo!
