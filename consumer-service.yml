@@ -1,4 +1,4 @@
 server:
   port: ${PORT:8889}
 
-message: Servidor de cliente esta Operativo!
+message: Servidor de Qa esta Operativo!
