@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:8890}
+
+message: Servidor de dev esta Operativo!
