@@ -1,4 +1,0 @@
-server:
-  port: ${PORT:8886}
-  
-  message: El servidor de Producer esta operativo!
